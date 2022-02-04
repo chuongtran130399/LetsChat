@@ -1,0 +1,6 @@
+.LetsChat/GoogleService-Info.plist
+.LetsChat/Info.plist
+.Pods
+.LetsChat.xcodeproj/*
+.LetsChat.xcworkspace/*
+.DS_Store
